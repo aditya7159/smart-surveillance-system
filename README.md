@@ -1,3 +1,4 @@
+```
 User (Browser)
       ↓
 Frontend — React + TypeScript (Vercel pe deploy)
@@ -22,3 +23,4 @@ HydroAlert/
 │   │   └── App.tsx          ← Main app
 │   └── package.json
 └── requirements.txt         ← Python dependencies
+```
